@@ -378,7 +378,7 @@ A dilatação do tempo "comum" só é responsável por $3{,}92$ anos dos 50. O g
 <p align="center">
   <img src="figura-1-15.gif" alt="Diagrama do Paradoxo dos Gêmeos Dissecado de Schutz" width="350">
   <br>
-  <em>Figura 1.15 — O Paradoxo dos Gêmeos Dissecado.</em><br>
+  <em>Figura 1.15 — O Paradoxo dos Gêmeos.</em><br>
   Fonte: SCHUTZ, Bernard. <em>A First Course in General Relativity</em>.
 </p>
 
