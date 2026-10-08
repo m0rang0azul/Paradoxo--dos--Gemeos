@@ -69,7 +69,7 @@ $$\boxed{\Delta t_{\text{Ártemis}} = \gamma\Delta\tau_{\text{Diana}} = \frac{25
 **No reencontro: Ártemis envelheceu 50 anos e Diana, apenas 14.**
 
 <p align="center">
-  <img src="paradoxo-gemeos.gif" alt="Animação do Paradoxo dos Gêmeos" width="400">
+  <img src="paradoxo-dos-gemeos-pixel-art.gif" alt="Animação do Paradoxo dos Gêmeos" width="400">
   <br>
   <em>Paradoxo dos Gêmeos: Ártemis (na Terra) e Diana (viajando a 0,96c).</em>
 </p>
@@ -93,7 +93,11 @@ Essa assimetria quebra a simetria do argumento de reciprocidade. Não existe um 
 
 Se Diana, durante cada trecho da viagem (vista continuamente do seu próprio referencial inercial), enxerga o relógio de Ártemis andando mais devagar (exatamente como no argumento de reciprocidade do primeiro post), como é que Ártemis termina **mais velha**? A resposta está no que acontece bem no instante da virada, em $B$: um **salto na linha de simultaneidade** de Diana.
 
-![O salto de simultaneidade no evento B](paradoxo-gemeos.png)
+<p align="center">
+  <img src="paradoxo-gemeos.png" alt="Diagrama de espaço-tempo do Paradoxo dos Gêmeos mostrando o salto de simultaneidade no evento B" width="350">
+  <br>
+  <em>Diagrama de espaço-tempo do Paradoxo dos Gêmeos: o salto de simultaneidade no evento B.</em>
+</p>
 
 
 ## Dados do problema
@@ -370,6 +374,13 @@ Agora dá para contabilizar, peça por peça, de onde vêm os 50 anos de Ártemi
 | **Total** | $1,96+46,08+1,96 = 50$ anos ✓ |
 
 A dilatação do tempo "comum" só é responsável por $3{,}92$ anos dos 50. O grosso da diferença, **46 dos 50 anos**, vem inteiramente do salto de simultaneidade no instante em que Diana troca de referencial inercial. É aí que o "tempo extra" de Ártemis estava escondido o tempo todo: não em nenhum trecho do voo, mas exatamente na virada.
+
+<p align="center">
+  <img src="figura-1-15.gif" alt="Diagrama do Paradoxo dos Gêmeos Dissecado de Schutz" width="350">
+  <br>
+  <em>Figura 1.15 — O Paradoxo dos Gêmeos Dissecado.</em><br>
+  Fonte: SCHUTZ, Bernard. <em>A First Course in General Relativity</em>.
+</p>
 
 ---
 
