@@ -10,9 +10,9 @@ Luana M. Souza
 
 ## 1. Por que os "paradoxos" da relatividade não são paradoxos de verdade
 
-Textos introdutórios de Relatividade Restrita costumam apresentar uma lista de problemas batizados de "paradoxos": o paradoxo dos gêmeos, o paradoxo do bastão e o celeiro, o paradoxo da "guerra no espaço", entre outros. Schutz é direto sobre isso: **esses paradoxos são apenas aparentes, nunca contradições reais**.
+Textos introdutórios de Relatividade Restrita costumam apresentar uma lista de problemas batizados de "paradoxos": o paradoxo dos gêmeos, o paradoxo do bastão e o celeiro, o paradoxo da "guerra no espaço", entre outros. Para Schutz, **esses paradoxos são apenas aparentes, nunca contradições reais**.
 
-A origem de todos eles é a mesma: alguém mistura, sem perceber, conceitos newtonianos (um tempo universal, uma noção de simultaneidade absoluta, válida para todo mundo) com a geometria do espaço-tempo de Minkowski, que não tem nada disso. Quando o problema é tratado com rigor, usando diagramas de espaço-tempo e as ferramentas que já construímos nesta série, **nenhuma inconsistência matemática sobra**. A Relatividade Restrita é um modelo perfeitamente consistente, testado repetidamente em física de partículas e astrofísica.
+A origem de todos eles é a mesma: alguém mistura, sem perceber, conceitos newtonianos (um tempo universal, uma noção de simultaneidade absoluta, válida para todo mundo) com a geometria do espaço-tempo de Minkowski. Quando o problema é tratado com rigor, usando os diagramas de espaço-tempo e as ferramentas que já corretas, **nenhuma inconsistência matemática sobra**. A Relatividade Restrita é um modelo perfeitamente consistente, testado repetidamente em física de partículas e astrofísica.
 
 O paradoxo dos gêmeos é o exemplo mais famoso, e vale a pena dissecá-lo por completo.
 
