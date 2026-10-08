@@ -4,7 +4,7 @@ Luana M. Souza
 
 *Seção 1.11 e Apêndice 1.13 de Bernard Schutz: por que os "paradoxos" da relatividade não são contradições, e a dissecação completa do paradoxo dos gêmeos*
 
-> **Antes de começar:** este post fecha a série sobre o Capítulo 1 de Schutz. Ele usa diretamente a dilatação do tempo de [Hipérboles Invariantes](../hiperboles), a relatividade da simultaneidade de [Geometria do Espaço-Tempo](../relogio-de-luz), e a transformação de Lorentz de [Transformações de Lorentz](../lorentz). Se alguma dessas ideias estiver enferrujada, vale revisitar antes de continuar.
+> **Antes de começar:** este post fecha a série sobre o Capítulo 1 de Schutz. Ele usa diretamente a dilatação do tempo de [Hipérboles Invariantes](https://github.com/m0rang0azul/hiperboles--invariantes), a relatividade da simultaneidade de [Geometria do Espaço-Tempo](https://github.com/m0rang0azul/Relatividade-Geral---Diagrama-de-Minkowski), e a transformação de Lorentz de [Transformações de Lorentz](https://github.com/m0rang0azul/Transformacoes-de-Lorentz-Adicao-de-Velocidades). Se alguma dessas ideias estiver enferrujada, vale revisitar antes de continuar.
 
 ---
 
