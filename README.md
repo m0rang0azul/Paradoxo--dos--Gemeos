@@ -30,16 +30,16 @@ v = \dfrac{24}{25} = 0,96
 $$ 
 
 <p align="center">
-  <img src="diana-mengs.png" alt="Diana como Personificação da Noite" width="350">
+  <img src="Mengs,_Diana_als_Personifikation_der_Nacht.jpg" alt="Diana como Personificação da Noite" width="200">
   <br>
   <em>Diana como Personificação da Noite. Anton Raphael Mengs, c. 1765.</em><br>
   Fonte: <a href="https://pt.wikipedia.org/wiki/Diana_(mitologia)">Wikipedia</a>
 </p>
 
 <p align="center">
-  <img src="artemis-rotari.jpg" alt="Ártemis, deusa da caça, apoiada em uma árvore" width="350">
+  <img src="hiper-artemis-3-cke.jpg" alt="Ártemis, deusa da caça, apoiada em uma árvore" width="200">
   <br>
-  <em>Diana, deusa da caça, apoiada em uma árvore. Pietro Rotari, século XVIII.</em><br>
+  <em>Ártemis, deusa da caça, apoiada em uma árvore. Pietro Rotari, século XVIII.</em><br>
   Fonte: <a href="https://www.hipercultura.com/artemis-deusa-da-lua-na-mitologia-grega/">Hipercultura</a>
 </p>
 
@@ -67,6 +67,12 @@ Com dois trechos (ida e volta):
 $$\boxed{\Delta t_{\text{Ártemis}} = \gamma\Delta\tau_{\text{Diana}} = \frac{25}{7}\times 14 = 50 \text{ anos}}$$
 
 **No reencontro: Ártemis envelheceu 50 anos e Diana, apenas 14.**
+
+<p align="center">
+  <img src="paradoxo-gemeos.gif" alt="Animação do Paradoxo dos Gêmeos" width="400">
+  <br>
+  <em>Paradoxo dos Gêmeos: Ártemis (na Terra) e Diana (viajando a 0,96c).</em>
+</p>
 
 ---
 
