@@ -12,7 +12,7 @@ Luana M. Souza
 
 Textos introdutórios de Relatividade Restrita costumam apresentar uma lista de problemas batizados de "paradoxos": o paradoxo dos gêmeos, o paradoxo do bastão e o celeiro, o paradoxo da "guerra no espaço", entre outros. Para Schutz, **esses paradoxos são apenas aparentes, nunca contradições reais**.
 
-A origem de todos eles é a mesma: alguém mistura, sem perceber, conceitos newtonianos (um tempo universal, uma noção de simultaneidade absoluta, válida para todo mundo) com a geometria do espaço-tempo de Minkowski. Quando o problema é tratado com rigor, usando os diagramas de espaço-tempo e as ferramentas que já corretas, **nenhuma inconsistência matemática sobra**. A Relatividade Restrita é um modelo perfeitamente consistente, testado repetidamente em física de partículas e astrofísica.
+A origem de todos eles é a mesma: alguém mistura, sem perceber, conceitos newtonianos (um tempo universal, uma noção de simultaneidade absoluta, válida para todo mundo) com a geometria do espaço-tempo de Minkowski. Quando o problema é tratado com rigor, usando os diagramas de espaço-tempo e as ferramentas corretas, **nenhuma inconsistência matemática sobra**. A Relatividade Restrita é um modelo perfeitamente consistente, testado repetidamente em física de partículas e astrofísica.
 
 O paradoxo dos gêmeos é o exemplo mais famoso, e vale a pena dissecá-lo por completo.
 
@@ -28,6 +28,20 @@ Considere duas gêmeas:
 $$
 v = \dfrac{24}{25} = 0,96
 $$ 
+
+<p align="center">
+  <img src="diana-mengs.png" alt="Diana como Personificação da Noite" width="350">
+  <br>
+  <em>Diana como Personificação da Noite. Anton Raphael Mengs, c. 1765.</em><br>
+  Fonte: <a href="https://pt.wikipedia.org/wiki/Diana_(mitologia)">Wikipedia</a>
+</p>
+
+<p align="center">
+  <img src="artemis-rotari.jpg" alt="Ártemis, deusa da caça, apoiada em uma árvore" width="350">
+  <br>
+  <em>Diana, deusa da caça, apoiada em uma árvore. Pietro Rotari, século XVIII.</em><br>
+  Fonte: <a href="https://www.hipercultura.com/artemis-deusa-da-lua-na-mitologia-grega/">Hipercultura</a>
+</p>
 
 Do ponto de vista de Diana:
 
