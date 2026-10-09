@@ -80,7 +80,7 @@ $$\boxed{\Delta t_{\text{Ártemis}} = \gamma\Delta\tau_{\text{Diana}} = \frac{25
 
 Essa é a pergunta que todo mundo faz na primeira vez que vê esse resultado: por que Diana não pode alegar, com o mesmo direito, que é **Ártemis** quem deveria ter envelhecido menos? Afinal, do ponto de vista de Diana, é a Terra que se afasta e depois se aproxima.
 
-A resposta está numa diferença física real entre as duas trajetórias, não numa escolha arbitrária de quem é "o observador certo". Lembra da discussão sobre reciprocidade da dilatação do tempo no primeiro post desta série? Lá, o argumento de que "cada um vê o relógio do outro atrasado, sem contradição" **só funciona quando os dois observadores permanecem inerciais o tempo todo**. E é exatamente isso que não acontece aqui:
+A resposta está numa diferença física real entre as duas trajetórias, não numa escolha arbitrária de quem é "o observador certo". Lembra da discussão sobre reciprocidade da dilatação do tempo no primeiro post desta série? Lá, o argumento de que "cada um vê o relógio do outro atrasado, sem contradição" **só funciona quando os dois observadores permanecem sob os mesmos referenciais inerciais o tempo todo**. E é exatamente isso que não acontece aqui:
 
 - **Ártemis** permanece no mesmo referencial inercial $O$ do início ao fim.
 - **Diana** ocupa **dois referenciais inerciais diferentes**: $\bar O$ na ida (movendo-se a $+v$) e $\bar{\bar O}$ na volta (movendo-se a $-v$). O evento $B$, onde ela inverte o sentido, envolve uma aceleração, uma **mudança abrupta de referencial inercial**.
