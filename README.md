@@ -382,7 +382,7 @@ $$
 \Delta t_{\text{salto}} = t_C - t_A = 46,08 \text{ anos}.
 $$
 
-É aí que estão escondidos os $46$ dos $50$ anos de Ártemis. Ou seja, o triângulo $ABC$ é omitido dos dados de Diana.
+É aí que estão escondidos os $46$ dos $50$ anos de Ártemis. Observa-se então, que o triângulo $ABC$ é omitido dos dados de Diana.
 
 ## Resumo do raciocínio
 
