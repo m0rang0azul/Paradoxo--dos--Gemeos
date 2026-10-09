@@ -99,6 +99,27 @@ Se Diana, durante cada trecho da viagem (vista continuamente do seu próprio ref
   <em>Diagrama de espaço-tempo do Paradoxo dos Gêmeos: o salto de simultaneidade no evento B.</em>
 </p>
 
+### O que Diana faz para coletar os dados de tempo
+
+**Fase de Ida (Partida da Terra)**
+
+1. Ajusta seu próprio relógio para marcar $(t = 0)$ no momento em que deixa a Terra.
+2. Sincroniza todos os relógios do seu referencial inercial $\bar{O}$ com o seu.
+3. Coloca um estudante de pós-graduação em cada um desses relógios.
+4. Ordena que os estudantes anotem a hora marcada no relógio da Terra sempre que um dos relógios do referencial passar por ela (estudante em $A$).
+
+**Fase de Virada (Evento $B$)**
+
+5. Viaja por 7 anos, medidos pelo seu próprio relógio.
+6. Salta do referencial inercial de ida e se agarra a outro referencial $\bar{\bar{O}}$, que está voltando em direção à Terra com $v = 0,96$.
+
+**Fase de Volta (Retorno)**
+
+7. Acomoda-se nesse novo referencial e distribui novamente os estudantes de pós-graduação nos relógios.
+8. Ordena que todos os relógios sejam sincronizados com o seu, que agora marca $t = 7$ anos no momento da transição.
+9. Ajusta o zero de cada relógio (já que eles já estavam sincronizados entre si, ela apenas redefine a origem).
+10. Ordena que cada estudante que passar pela Terra a partir de $t = 7$ anos (até que ela chegue lá) registre a hora da passagem e a leitura dos relógios da Terra naquele momento (estudante em $C$).
+
 
 ## Dados do problema
 
@@ -106,7 +127,8 @@ No referencial da Terra $O$:
 
 - Ártemis está em $(x = 0)$ (linha contínua preta na vertical).
 - O evento de virada é em $B = (t_B, x_B) = (25, 24)$.
-- Diana, na ida (linha de simultaneidade tracejada azul), está no referencial $\bar O$, com velocidade:
+- Estudantes na ida com os relógios sincronizados com o de Diana (linha de simultaneidade tracejada azul).
+- Diana, na ida (linha laranja com inclinação positiva), está no referencial $\bar O$, com velocidade:
 
 $$
 v = 24/25
@@ -216,6 +238,8 @@ $$
 \boxed{t_A = 1,96 \text{ anos}}.
 $$
 
+Ou seja, o estudante que passa pela Terra em $A$ registra 1,96 anos em seu relógio.
+
 ---
 
 ## Resumo do raciocínio
@@ -233,7 +257,8 @@ No referencial da Terra $O$:
 
 - Ártemis está em $(x = 0)$ (linha contínua preta na vertical).
 - O evento de virada é em $B = (t_B, x_B) = (25, 24)$.
-- Diana, na volta (linha de simultaneidade tracejada lilás), está no referencial $\bar{\bar O}$, com velocidade:
+- Estudantes na volta com os relógios sincronizados ao de Diana (linha de simultaneidade tracejada lilás).
+- Diana, na volta (linha laranja com inclinação negativa), está no referencial $\bar{\bar O}$, com velocidade:
 
 $$
 v = 24/25
@@ -279,7 +304,7 @@ $$
 \bar{\bar t}_B = (25/7) \cdot (1201/25) = 1201/7 \approx 171 \text{ anos}.
 $$
 
-Esse é o tempo coordenado do evento $B$ no referencial de volta.
+Esse é o tempo coordenado do evento $B$ no referencial de volta $\approx 171$, ou seja o tempo que o referencial $\bar{\bar O}$ atribui ao evento de virada em $B$.
 
 ---
 
@@ -345,15 +370,19 @@ $$
 \boxed{t_C = 48,04 \text{ anos}}.
 $$
 
+Ou seja, o estudante que passa pela Terra em $C$ registra 48,04 anos em seu relógio.
+
 ---
 
 ### O salto será:
+
+Como Diana não conseguiu coletar dados de tempo entre 1,96 e 48,04 anos, ela toma um susto! Uma vez que o tempo saltou de 1,96 para 48,04 anos!!!
 
 $$
 \Delta t_{\text{salto}} = t_C - t_A = 46,08 \text{ anos}.
 $$
 
-É aí que estão escondidos os $46$ dos $50$ anos de Ártemis.
+É aí que estão escondidos os $46$ dos $50$ anos de Ártemis. Ou seja, o triângulo $ABC$ é omitido dos dados de Diana.
 
 ## Resumo do raciocínio
 
@@ -375,10 +404,10 @@ Agora dá para contabilizar, peça por peça, de onde vêm os 50 anos de Ártemi
 | Volta, dilatação "comum" | $1,96$ anos |
 | **Total** | $1,96+46,08+1,96 = 50$ anos ✓ |
 
-A dilatação do tempo "comum" só é responsável por $3{,}92$ anos dos 50. O grosso da diferença, **46 dos 50 anos**, vem inteiramente do salto de simultaneidade no instante em que Diana troca de referencial inercial. É aí que o "tempo extra" de Ártemis estava escondido o tempo todo: não em nenhum trecho do voo, mas exatamente na virada.
+A dilatação do tempo "comum" só é responsável por $3{,}92$ anos dos 50. O grosso da diferença, **46 dos 50 anos**, vem inteiramente do salto de simultaneidade no instante em que Diana troca de referencial inercial. É aí que o "tempo extra" de Ártemis estava escondido o tempo todo, não em nenhum trecho do voo, mas exatamente na virada.
 
 <p align="center">
-  <img src="figura-1-15.gif" alt="Diagrama do Paradoxo dos Gêmeos Dissecado de Schutz" width="350">
+  <img src="figura-1-15.gif.gif" alt="Diagrama do Paradoxo dos Gêmeos Dissecado de Schutz" width="500">
   <br>
   <em>Figura 1.15 — O Paradoxo dos Gêmeos.</em><br>
   Fonte: SCHUTZ, Bernard. <em>A First Course in General Relativity</em>.
