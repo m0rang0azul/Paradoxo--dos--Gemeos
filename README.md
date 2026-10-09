@@ -392,6 +392,13 @@ $$
 4. Igualando: $\gamma t_C = 1201/7 \Rightarrow t_C = 1201/25 = 48,04$ anos.
 
 ---
+### O erro de Diana: (omissão do triângulo ABC)
+
+- Diana encerrou a coleta de dados do 1º referencial em $\bar t = 7$ anos e iniciou a coleta do 2º referencial em $\bar{\bar t} = 7$ anos.
+  
+- Ao fazer isso, ela descartou todos os estudantes do 1º referencial que continuaram viajando além de $\bar t = 7$ anos (que teriam acompanhado a Terra de t = 1,96 anos até t = 48,04 anos).
+  
+- O "salto" de quase 46 anos no tempo terrestre não é uma aceleração/desaceleração física mágica do tempo, mas sim o resultado de ter deixado todo o interior do Triângulo ABC fora do seu mapa de coordenadas desconstínuo.
 
 ### Fechando a conta
 
@@ -410,6 +417,23 @@ A dilatação do tempo "comum" só é responsável por $3{,}92$ anos dos 50. O g
   <img src="figura-1-15.gif.gif" alt="Diagrama do Paradoxo dos Gêmeos Dissecado de Schutz" width="500">
   <br>
   <em>Figura 1.15 — O Paradoxo dos Gêmeos.</em><br>
+  Fonte: SCHUTZ, Bernard. <em>A First Course in General Relativity</em>.
+</p>
+
+---
+
+### Analogia geométrica Euclidiana
+
+- No plano cartesiano 2D $(x, y)$, medir uma curva $A$ -&gt; $B$ -&gt; $C$ -&gt; $D$ e, no ponto B, girar os eixos de coordenadas para ($\bar x, \bar y$) exigindo ingenuamente continuar na mesma coordenada $\bar y = y_{B}$ faz com que a linha de medição cruze a curva no ponto $C$, e não em $B$.
+  
+- Isso faz a medição saltar de B diretamente para $C$, omitindo o trecho $B$ -&gt; $C$ da curva.
+
+- A tentativa de Diana de impor uma continuidade ingênua de coordenadas ao trocar de referencial inercial no espaço-tempo de Minkowski gera rigorosamente esse mesmo salto geométrico.
+
+<p align="center">
+  <img src="figura-1-16b-v2.gif" alt="Figura 1.16(b) — A Analogia Euclidiana da Rotação" width="600">
+  <br>
+  <em>Figura 1.16(b) — A Analogia Euclidiana da Rotação. Passo 1: Medição do trecho A → B no sistema (x, y). No ponto B, registra-se a coordenada y_barra = y_B.</em><br>
   Fonte: SCHUTZ, Bernard. <em>A First Course in General Relativity</em>.
 </p>
 
