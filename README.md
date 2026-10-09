@@ -127,7 +127,7 @@ No referencial da Terra $O$:
 
 - Ártemis está em $(x = 0)$ (linha contínua preta na vertical).
 - O evento de virada é em $B = (t_B, x_B) = (25, 24)$.
-- Estudantes na ida com os relógios sincronizados com o de Diana (linha de simultaneidade tracejada azul).
+- Estudantes na ida com os relógios sincronizados ao de Diana (linha de simultaneidade tracejada azul).
 - Diana, na ida (linha laranja com inclinação positiva), está no referencial $\bar O$, com velocidade:
 
 $$
