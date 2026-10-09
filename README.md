@@ -255,6 +255,8 @@ $$
 \bar{\bar x} = \gamma(x + vt)
 $$
 
+Observe que o sinal muda dentro dos parênteses, uma vez que que Diana, agora, viaja à uma velocidade $-v$.
+
 ---
 
 ## O tempo coordenado de Diana em $B$
