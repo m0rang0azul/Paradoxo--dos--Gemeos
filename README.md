@@ -116,9 +116,9 @@ Se Diana, durante cada trecho da viagem (vista continuamente do seu próprio ref
 **Fase de Volta (Retorno)**
 
 7. Acomoda-se nesse novo referencial e distribui novamente os estudantes de pós-graduação nos relógios.
-8. Ordena que todos os relógios sejam sincronizados com o seu, que agora marca $t = 7$ anos no momento da transição.
+8. Ordena que todos os relógios sejam sincronizados com o seu, que agora marca $\tau = 7$ (tempo próprio de Diana) no momento da transição.
 9. Ajusta o zero de cada relógio (já que eles já estavam sincronizados entre si, ela apenas redefine a origem).
-10. Ordena que cada estudante que passar pela Terra a partir de $t = 7$ anos (até que ela chegue lá) registre a hora da passagem e a leitura dos relógios da Terra naquele momento (estudante em $C$).
+10. Ordena que cada estudante que passar pela Terra a partir de $\tau = 7$ anos (até que ela chegue lá) registre a hora da passagem e a leitura dos relógios da Terra naquele momento (estudante em $C$).
 
 
 ## Dados do problema
